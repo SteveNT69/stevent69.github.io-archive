@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SteveNT Lounge</title>
+<body style="background-color:#C3C3C3;">
+<link rel="shortcut icon" href="img/favicon.ico" type="image/ico"/ >
+<meta name="og:site_name" content="User Pages" />
+<meta name="og:title" content="SteveNT Lounge" />
+<meta name="og:description" content="Welcome to my lounge. I am SteveNT.">
+<meta property="og:image" content="steveNT.jpg" />
+</head>
+<body>
+ 
+<header>
+<a href="index.html">Home</a> <a href="about.html">About</a> <a href="recipes.html">Recipes</a> <a href="discord.html">Discord</a> <a href="userpages.html">User Pages</a>
+</header>
+  
+<h1>User Pages</h1>
+<p>This section is a bit like GeoCities.</p>
+<p>Listed below are user submitted pages you can view.</p>
+<p>If you want to submit a page, send me a .html or .txt of your page on Discord or email it to me (<a href="discord.html">see this</a>) and I'll add it AFAP( ͡° ͜ʖ ͡°)  (as fast as possible).</p>
+<p>Illegal/NSFW pages are not allowed.</p>
+<p>Currently there are no user pages :(</p>
+
+<footer>
+<a href="netscape_navigator3.zip">
+<img src="netscape.gif" alt="Best viewed with Netscape Navigator 3.0"
+style="width:85px;height:29px;border:0;">
+</a>
+</footer>
+  
+
+</body>
+</html>
